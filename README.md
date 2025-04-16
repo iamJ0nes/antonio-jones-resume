@@ -35,7 +35,7 @@ I'm an IT professional with a strong foundation in systems administration and a 
 ## 🔗 Connect with Me
 
 - **GitHub:** [iamJ0nes](https://github.com/iamJ0nes)
-- **LinkedIn:** [linkedin.com/in/iamj0nes](https://www.linkedin.com/in/iamj0nes)
+- **LinkedIn:** [iamj0nes](https://www.linkedin.com/in/iamj0nes)
 
 ---
 
