@@ -27,7 +27,7 @@ I'm an IT professional with a strong foundation in systems administration and a 
 ---
 
 ## 🛠️ Professional Development
-- 🎓 Google Cybersecurity Professional Certificate *(In Progress via Coursera)*
+- 🎓 Google Cybersecurity Professional Certificate *(Completed via Coursera)*
 - 🔐 CompTIA Security+ *(In Progress)*
 
 ---
