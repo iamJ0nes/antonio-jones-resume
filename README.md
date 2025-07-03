@@ -8,7 +8,7 @@ Welcome to my professional resume repository. This repo contains a current copy 
 
 You can view or download the latest version of my resume below:
 
-**[📥 Download Resume (PDF)](./antonio-jones-resume.pdf)**
+**[📥 Download Resume (PDF)](https://github.com/iamJ0nes/antonio-jones-resume/raw/main/Antonio_Jones_Resume_July25.pdf)**
 
 ---
 
